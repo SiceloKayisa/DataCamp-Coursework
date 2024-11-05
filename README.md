@@ -21,11 +21,12 @@ This repository contains my coursework from various DataCamp courses, primarily 
   * Statistical concepts and hypothesis testing
   * Probability theory
   * Data distribution and sampling
-    
+
 * **Software Development for Data Scientists:**
   * Python programming and scripting
   * Version control with Git
   * Data engineering and pipeline building
 
+#### Related Projects
 
 
