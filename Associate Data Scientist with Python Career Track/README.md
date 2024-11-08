@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/7609c185-001b-4219-9030-782f4741c986)
+![image](https://github.com/user-attachments/assets/b117086b-a272-4c82-b00d-a10b2df04c0e)
+
 
 
 ## Associate Data Scientist with Python Career Track
