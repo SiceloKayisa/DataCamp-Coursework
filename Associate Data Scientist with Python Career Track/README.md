@@ -175,7 +175,7 @@ This repository showcases my completed DataCamp Data Science with Python career 
 
   Explored Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade.
 
-- Exploring NYC Public School Test Result Scores <br>
+- [Exploring NYC Public School Test Result Scores](https://github.com/SiceloKayisa/DataCamp-Coursework/blob/main/Associate%20Data%20Scientist%20with%20Python%20Career%20Track/Projects/Exploring%20NYC%20Public%20School%20Test%20Results%20Scores/README.md) <br>
 
   Used data manipulation and summary statistics to analyze test scores across New York City's public schools!
 
