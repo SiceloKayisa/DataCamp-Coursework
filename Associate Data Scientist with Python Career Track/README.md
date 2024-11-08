@@ -171,7 +171,7 @@ This repository showcases my completed DataCamp Data Science with Python career 
     
 #### Projects
 
-- Investigating Netflix Movies <br>
+- [Investigating Netflix Movies](https://github.com/SiceloKayisa/DataCamp-Coursework/blob/main/Associate%20Data%20Scientist%20with%20Python%20Career%20Track/Projects/Investing%20Netflix%20Movies/README.md) <br>
 
   Explored Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade.
 
