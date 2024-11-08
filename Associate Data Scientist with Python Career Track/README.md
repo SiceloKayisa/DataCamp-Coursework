@@ -170,10 +170,21 @@ This repository showcases my completed DataCamp Data Science with Python career 
      
     
 #### Projects
+
+- Investigating Netflix Movies
+      - Explored Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade.
+
+- Exploring NYC Public School Test Result Scores
+      - Used data manipulation and summary statistics to analyze test scores across New York City's public schools!
+
+- Visualizing the History of Nobel Prize Winners
+      - Explored a dataset containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
+ 
+- Analyzing Crime in Los Angeles
+      - Explored out when and where crime is most likely to occur, along with the types of crimes commonly committed in LA
+
+
   
-
-
-
 
 ![image](https://github.com/user-attachments/assets/4e9f9e4e-5639-43c2-a171-7cc9ef110c1b)
 
