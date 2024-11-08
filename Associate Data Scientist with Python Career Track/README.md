@@ -173,7 +173,7 @@ This repository showcases my completed DataCamp Data Science with Python career 
 
 - Investigating Netflix Movies <br>
 
-Explored Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade.
+  Explored Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade.
 
 - Exploring NYC Public School Test Result Scores <br>
 
