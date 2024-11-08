@@ -14,12 +14,6 @@ You have been tasked with answering three key questions about New York City (NYC
 
 #### Project Instructions
 
-Copy code<p class="small-text">This text will be smaller</p> 
- 
-Copy code.small-text { 
-    font-size: 40%; 
-} 
-
 
 ##### Which NYC schools have the best math results
 
