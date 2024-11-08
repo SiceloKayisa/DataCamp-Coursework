@@ -14,10 +14,10 @@ You have been tasked with answering three key questions about New York City (NYC
 
 #### Project Instructions
 
-<p class="small-text">This text will be smaller</p>
-
-small-text { 
-    font-size: 80%; 
+Copy code<p class="small-text">This text will be smaller</p> 
+ 
+Copy code.small-text { 
+    font-size: 40%; 
 } 
 
 
