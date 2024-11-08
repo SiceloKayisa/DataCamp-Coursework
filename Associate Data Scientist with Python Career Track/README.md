@@ -179,7 +179,7 @@ This repository showcases my completed DataCamp Data Science with Python career 
 
   Used data manipulation and summary statistics to analyze test scores across New York City's public schools!
 
-- Visualizing the History of Nobel Prize Winners  <br>
+- [Visualizing the History of Nobel Prize Winners](https://github.com/SiceloKayisa/DataCamp-Coursework/tree/main/Associate%20Data%20Scientist%20with%20Python%20Career%20Track/Projects/Visualizing%20the%20History%20of%20Nobel%20Price%20Winners)  <br>
 
   Explored a dataset containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
  
