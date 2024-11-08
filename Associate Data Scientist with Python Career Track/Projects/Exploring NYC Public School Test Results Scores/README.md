@@ -14,6 +14,13 @@ You have been tasked with answering three key questions about New York City (NYC
 
 #### Project Instructions
 
+<p class="small-text">This text will be smaller</p>
+
+small-text { 
+    font-size: 80%; 
+} 
+
+
 ##### Which NYC schools have the best math results
 
 - The best math results are at least 80% of the *maximum possible score of 800* for math.
