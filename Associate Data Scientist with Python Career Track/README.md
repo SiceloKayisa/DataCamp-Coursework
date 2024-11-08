@@ -183,12 +183,12 @@ This repository showcases my completed DataCamp Data Science with Python career 
 
   Explored a dataset containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
  
-- Analyzing Crime in Los Angeles <br>
+- [Analyzing Crime in Los Angeles](https://github.com/SiceloKayisa/DataCamp-Coursework/tree/main/Associate%20Data%20Scientist%20with%20Python%20Career%20Track/Projects/Analyzing%20Crime%20in%20Los%20Angeles) <br>
 
   Explored out when and where crime is most likely to occur, along with the types of crimes commonly committed in LA
 
 
-  
+ ### Certification 
 
 ![image](https://github.com/user-attachments/assets/4e9f9e4e-5639-43c2-a171-7cc9ef110c1b)
 
