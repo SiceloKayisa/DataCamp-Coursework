@@ -41,6 +41,8 @@ Great analysis begins with great data. But how do you connect Tableau to your da
 
 In this Tableau case study, we investigated a dataset from an example telecom company called Databel and analyze their churn rates. You'll answer these questions by using the developed skills which includes creating calculated fields and various visualizations in Tableau, such as dual-axis graphs and scatter plots. We'll made graphs dynamic by using filters and parameters, and combined everything into a story to share our insights.
 
+Below is the created dashboard from the case study. 
+
 
 
 
