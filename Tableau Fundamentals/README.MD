@@ -1,5 +1,4 @@
 
-
 ## 🏆 Introduction to Tableau
 Introductory course where we explored how to navigate Tableau’s interface and connect and present data using easy-to-understand visualizations through the following learning chapters.
 
