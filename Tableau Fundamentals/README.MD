@@ -1,4 +1,4 @@
-[Verify Here!](https://www.datacamp.com/completed/statement-of-accomplishment/track/080db71064a8143165e2dd03ce76eaf8f4c44eaf)
+[Statement of Accomplishment](https://www.datacamp.com/completed/statement-of-accomplishment/track/080db71064a8143165e2dd03ce76eaf8f4c44eaf)
 
 ## 🏆 Introduction to Tableau
 Introductory course where we explored how to navigate Tableau’s interface and connect and present data using easy-to-understand visualizations through the following learning chapters.
