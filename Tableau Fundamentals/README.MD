@@ -1,4 +1,4 @@
-![image](https://github.com/SiceloKayisa/DataCamp-Coursework/blob/main/Tableau%20Fundamentals/Workbooks/Track%20image.PNG)
+
 
 [Statement of Accomplishment](https://www.datacamp.com/completed/statement-of-accomplishment/track/080db71064a8143165e2dd03ce76eaf8f4c44eaf)
 
