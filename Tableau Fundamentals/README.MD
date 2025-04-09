@@ -8,6 +8,8 @@ This learning track provides a comprehensive introduction to Tableau Desktop, a 
 
 Below are all the included courses in the learning track and their description.
 
+You can view some of the created workbooks
+
 ### 🏆 Introduction to Tableau
 Introductory course where we explored how to navigate Tableau’s interface and connect and present data using easy-to-understand visualizations through the following learning chapters.
 
