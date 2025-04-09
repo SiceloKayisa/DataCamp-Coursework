@@ -6,7 +6,7 @@
 
 This learning track provides a comprehensive introduction to Tableau Desktop, a powerful data visualization and business intelligence tool. Designed for beginners with no prior experience, it equips learners with the fundamental skills to connect to data, create various types of visualizations, build interactive dashboards, and share their insights effectively. 
 
-Below are all the included courses in the learning track and their description
+Below are all the included courses in the learning track and their description.
 
 ### 🏆 Introduction to Tableau
 Introductory course where we explored how to navigate Tableau’s interface and connect and present data using easy-to-understand visualizations through the following learning chapters.
