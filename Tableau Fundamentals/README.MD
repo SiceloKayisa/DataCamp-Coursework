@@ -1,3 +1,5 @@
+
+
 ## 🏆 Introduction to Tableau
 Introductory course where we explored how to navigate Tableau’s interface and connect and present data using easy-to-understand visualizations through the following learning chapters.
 
@@ -28,6 +30,8 @@ Great analysis begins with great data. But how do you connect Tableau to your da
 ## 🏆  Case Study: Analysing Customer Churn in Tableau
 
 In this Tableau case study, we investigated a dataset from an example telecom company called Databel and analyze their churn rates. You'll answer these questions by using the developed skills which includes creating calculated fields and various visualizations in Tableau, such as dual-axis graphs and scatter plots. We'll made graphs dynamic by using filters and parameters, and combined everything into a story to share our insights.
+
+
 
 
 
