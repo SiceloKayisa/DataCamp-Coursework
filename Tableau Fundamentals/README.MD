@@ -2,6 +2,10 @@
 
 [Statement of Accomplishment](https://www.datacamp.com/completed/statement-of-accomplishment/track/080db71064a8143165e2dd03ce76eaf8f4c44eaf)
 
+## Tableau Fundamentals Summary
+
+This learning track provides a comprehensive introduction to Tableau Desktop, a powerful data visualization and business intelligence tool. Designed for beginners with no prior experience, it equips learners with the fundamental skills to connect to data, create various types of visualizations, build interactive dashboards, and share their insights effectively.
+
 ## 🏆 Introduction to Tableau
 Introductory course where we explored how to navigate Tableau’s interface and connect and present data using easy-to-understand visualizations through the following learning chapters.
 
