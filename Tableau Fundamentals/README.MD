@@ -43,7 +43,7 @@ In this Tableau case study, we investigated a dataset from an example telecom co
 
 ##### Below is one the created dashboards from the case study. 
 
-![image](
+![image](https://github.com/SiceloKayisa/DataCamp-Coursework/blob/main/Tableau%20Fundamentals/Workbooks/Snippet.PNG)
 
 
 
