@@ -189,7 +189,7 @@ This repository showcases my completed DataCamp Data Science with Python career 
   Explored out when and where crime is most likely to occur, along with the types of crimes commonly committed in LA
 
 
- ### Certification 
+
 
 
 
