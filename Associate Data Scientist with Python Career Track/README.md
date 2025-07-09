@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/b117086b-a272-4c82-b00d-a10b2df04c0e)
+![image](https://github.com/user-attachments/assets/b117086b-a272-4c82-b00d-a10b2df04c0e) 
+![image](https://github.com/user-attachments/assets/4e9f9e4e-5639-43c2-a171-7cc9ef110c1b)
 
 
 
@@ -190,5 +191,5 @@ This repository showcases my completed DataCamp Data Science with Python career 
 
  ### Certification 
 
-![image](https://github.com/user-attachments/assets/4e9f9e4e-5639-43c2-a171-7cc9ef110c1b)
+
 
